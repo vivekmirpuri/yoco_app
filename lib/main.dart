@@ -127,8 +127,8 @@ class _MainAppState extends State<MainApp> {
             label: 'Home',
           ),
           NavigationDestination(
-            icon: Icon(Icons.studio_outlined),
-            selectedIcon: Icon(Icons.studio),
+            icon: Icon(Icons.work_outline),
+            selectedIcon: Icon(Icons.work),
             label: 'Studio',
           ),
           NavigationDestination(

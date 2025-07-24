@@ -26,11 +26,11 @@ class LoadingScreen extends StatelessWidget {
                   ),
                 ],
               ),
-              child: const Icon(
-                Icons.studio,
-                color: Colors.white,
-                size: 40,
-              ),
+                             child: const Icon(
+                 Icons.work,
+                 color: Colors.white,
+                 size: 40,
+               ),
             ),
             const SizedBox(height: 24),
             

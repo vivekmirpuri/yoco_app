@@ -27,7 +27,6 @@ class _AnalyticsScreenState extends State<AnalyticsScreen> {
         elevation: 0,
         actions: [
           PopupMenuButton<String>(
-            value: _selectedTimeRange,
             onSelected: (value) {
               setState(() {
                 _selectedTimeRange = value;

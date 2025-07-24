@@ -102,7 +102,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
     );
   }
 
-  Widget _buildProfileHeader(User user) {
+  Widget _buildProfileHeader(dynamic user) {
     return Center(
       child: Column(
         children: [

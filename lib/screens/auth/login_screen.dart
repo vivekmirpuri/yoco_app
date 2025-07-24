@@ -99,11 +99,11 @@ class _LoginScreenState extends State<LoginScreen> {
                         ),
                       ],
                     ),
-                    child: const Icon(
-                      Icons.studio,
-                      color: Colors.white,
-                      size: 50,
-                    ),
+                                         child: const Icon(
+                       Icons.work,
+                       color: Colors.white,
+                       size: 50,
+                     ),
                   ),
                   const SizedBox(height: 24),
                   
